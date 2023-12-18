@@ -1,4 +1,4 @@
-# chat-file-transfer-and-calculations-using-TCP-IP
+# build-calculation-application-uses-the-TCP-IP-protocol
 
 Chạy file MenuClient.jar để mở Client và file ServerCalculator.jar để mở Server
 
